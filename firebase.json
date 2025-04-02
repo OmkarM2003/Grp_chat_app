@@ -1,0 +1,1 @@
+{"flutter":{"platforms":{"android":{"default":{"projectId":"grpchatbloc","appId":"1:635565112592:android:4944cfa51a719c410e7995","fileOutput":"android/app/google-services.json"}},"dart":{"lib/firebase_options.dart":{"projectId":"grpchatbloc","configurations":{"android":"1:635565112592:android:4944cfa51a719c410e7995","ios":"1:635565112592:ios:86595119d14f55ff0e7995"}}}}}}
